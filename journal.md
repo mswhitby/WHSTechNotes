@@ -1,4 +1,4 @@
-# September 4, 2004
+# September 4, 2024
 
 ## Periods 1, 3, 4, & 6 - Sphero BOLT
 1. List 3 sensors found on the Sphero BOLT
@@ -20,4 +20,10 @@ Think about a mobile or web application that you use frequently. In a paragraph 
 In a paragraph or more, reflect on your experience learning Python so far. What do you find most interesting or challenging about the language? 
 
 > Note: Think about the basic concepts you’ve learned, such as variables, data types, or loops. How do you think these fundamentals will help you as you continue to learn more advanced programming concepts? Provide specific examples from your experience to explain your thoughts.
+
+----
+
+# August 18, 2024
+
+This is an example journal entry. There is no prompt this week.
 
