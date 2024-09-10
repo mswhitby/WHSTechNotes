@@ -1,3 +1,9 @@
+# September 10, 2024
+
+This is a placeholder entry. The prompts for this week will be posted later today.
+
+----
+
 # September 4, 2024
 
 ## Periods 1, 3, 4, & 6 - Sphero BOLT
