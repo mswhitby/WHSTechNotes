@@ -1,10 +1,17 @@
-# September 10, 2024
+# September 9, 2024
 
-This is a placeholder entry. The prompts for this week will be posted later today.
+_Reflecting on Our GitHub Journal Process_
+
+As a class, we followed the instructions to set up our GitHub journals. However, only a small number of journals were set up in a way that I could access them. Let’s figure out together what went wrong and how we can improve the process.
+
+- **For Me:** What could I have done differently in drafting or explaining the instructions? Were there any parts that were unclear or confusing?
+- **For You:** Did you encounter any challenges while following the steps? If so, what were they? What do you think may have been missed or misunderstood?
+
+Please share your thoughts, as we’ll use this feedback to make sure everyone’s journals are properly set up moving forward.
 
 ----
 
-# September 4, 2024
+# September 2, 2024
 
 ## Periods 1, 3, 4, & 6 - Sphero BOLT
 1. List 3 sensors found on the Sphero BOLT
@@ -29,7 +36,7 @@ In a paragraph or more, reflect on your experience learning Python so far. What 
 
 ----
 
-# August 18, 2024
+# August 27, 2024
 
 This is an example journal entry. There is no prompt this week.
 
