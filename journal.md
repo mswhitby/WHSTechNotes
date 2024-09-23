@@ -1,5 +1,8 @@
-# September 10, 2024 
-This is an example entry.
+# September 16, 2024
+
+Write the following as your journal entry: This is a free week.
+
+----
 
 
 # September 9, 2024
