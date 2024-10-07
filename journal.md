@@ -1,10 +1,35 @@
+# October 10, 2024
+
+Assigned        | Due              |
+:-------------: | :--------------: |
+October 7, 2024 | October 10, 2024 |
+
+Research a job or career path in the field of computer science that interests you. In your journal entry, write a paragraph or more addressing the following:
+
+1. **Job Title:** What is the job or career path you researched?
+2. **Job Description:** What are the main responsibilities or tasks for this role?
+3. **Skills Required:** What programming languages, tools, or skills are important for this position?
+4. **Education and Experience:** What level of education or experience is typically needed for this role?
+5. **Career Growth:** What opportunities for growth or advancement are available in this career?
+6. **Reflection:** How does this job align with your interests and goals in computer science?
+
+----
+
 # September 30, 2024
+
+Assigned            | Due             |
+:-----------------: | :-------------: |
+September 30, 2024  | October 4, 2024 |
 
 Think about your daily routine and activities. Identify one task or process where computer science plays a role, either directly or indirectly. Write a paragraph describing how computer science is used and how it impacts your life. Consider things like apps you use, websites you visit, or even the technology behind devices you rely on. How would your day be different without this use of computer science?
 
 ----
 
 # September 23, 2024
+
+Assigned            | Due                |
+:-----------------: | :----------------: |
+September 23, 2024  | September 27, 2024 |
 
 ## Periods 1, 5, 6, 7, & Practicum
 
@@ -29,16 +54,22 @@ This week, we began learning Python programming. In your journal, write a paragr
 
 Be sure to give specific examples from your experiences with both platforms.
 
-----
 
 # September 16, 2024
 
+Assigned            | Due                |
+:-----------------: | :----------------: |
+September 16, 2024  | September 20, 2024 |
+
 Write the following as your journal entry: This is a free week.
 
-----
-
+---
 
 # September 9, 2024
+
+Assigned           | Due                |
+:----------------: | :----------------: |
+September 9, 2024  | September 13, 2024 |
 
 _Reflecting on Our GitHub Journal Process_
 
@@ -49,9 +80,13 @@ As a class, we followed the instructions to set up our GitHub journals. However,
 
 Please share your thoughts, as we’ll use this feedback to make sure everyone’s journals are properly set up moving forward.
 
-----
+---
 
-# September 2, 2024
+# September 3, 2024
+
+Assigned           | Due               |
+:----------------: | :---------------: |
+September 3, 2024  | September 6, 2024 |
 
 ## Periods 1, 3, 4, & 6 - Sphero BOLT
 1. List 3 sensors found on the Sphero BOLT
@@ -74,7 +109,7 @@ In a paragraph or more, reflect on your experience learning Python so far. What 
 
 > Note: Think about the basic concepts you’ve learned, such as variables, data types, or loops. How do you think these fundamentals will help you as you continue to learn more advanced programming concepts? Provide specific examples from your experience to explain your thoughts.
 
-----
+---
 
 # August 27, 2024
 
