@@ -1,8 +1,6 @@
 # January 21, 2025
 
-## Agenda
-
-### 1. Journal: The TikTok Ban and Its Implications for Technology and Security
+## The TikTok Ban and Its Implications for Technology and Security
 
 **Prompt:**
 
