@@ -24,7 +24,7 @@ Please click on the link or scan the QR code below to vote for Wagner's very own
 [Vote Here!](https://woobox.com/hzdfnk)
 
 
-![Vote for Marcus Johnson](../../media/2025_vote_marcus_johnson_2.png)
+![Vote for Marcus Johnson](https://github.com/mswhitby/classroom/blob/main/media/2025_vote_marcus_johnson_2.png)
 
 ----
 
