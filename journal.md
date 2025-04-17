@@ -15,6 +15,9 @@ Write a professional appreciation email to any staff member on campus who has ma
 - Send your email to the staff member from your school account.
 - **BCC** me at dwhitby@judsonisd.org so I know you completed the assignment.
 
+### Peer Review:
+Before sending your email, ask a classmate to read it and give you feedback. A second pair of eyes can help you catch spelling, grammar, or tone issues you might miss. Be sure to return the favor and review a peer’s email, too! I have a checklist for you to use for peer review.
+
 ## Model Email Example
 
 > **Subject:** Thank You for Your Support and Accountability
