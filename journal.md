@@ -1,3 +1,19 @@
+# April 28, 2025
+
+## Journal: Cake Maker Logic Puzzle
+
+- Complete [Cake Maker Logic Puzzle](https://daydreampuzzles.com/logic-puzzles/cake-maker/), and submit the answer as a [Markdown Table](https://www.markdownguide.org/extended-syntax/#tables) in your journal.
+
+**Example:**
+
+| Name     | Flavor | Occasion | Price |
+| :------- | :----- | :------- | :---- |
+| Sally    |        |          |       | 
+| Michael  |        |          |       | 
+| Emma     |        |          |       | 
+
+----
+
 # April 22, 2025
 
 ## Journal Prompt: Write a Professional Appreciation Email
