@@ -1,3 +1,11 @@
+# May 19, 2025
+
+## Journal: We've Almost Made It!
+
+Are you ready for summer? Write your response in your journal.
+
+----
+
 # May 12, 2025
 
 ## Journal: "The Chromebook Challenge" - Why Safety and Ethics Matter
