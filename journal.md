@@ -1,3 +1,11 @@
+# November 10, 2025
+
+## Journal
+
+Are you looking forward to Thanksgiving break?
+
+----
+
 # November 3, 2025
 
 ## Journal: Technology and Food Access
