@@ -1,3 +1,13 @@
+# December 15, 2025
+
+## Agenda
+
+### 1. Journal Prompt
+
+What are your plans for the Winter Break?
+
+----
+
 # December 8, 2025
 
 ## Weekly Journal Prompt: Waymo Cars & School Bus Safety
