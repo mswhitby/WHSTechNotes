@@ -48,7 +48,7 @@
   </tr>
   
 </table>
-</table>details>
+</details>
 
 
 ****
