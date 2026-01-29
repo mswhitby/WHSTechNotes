@@ -7,6 +7,24 @@
     <th align="center">Description</th>
     <th align="center">Category</th>
   </tr>
+  <tr>
+    <td align="left">January 29, 2026</td>
+    <td align="left">February 5, 2026</td>
+    <td align="left"><a href="https://github.com/mswhitby/WHSTechNotes/blob/main/journal.md#january-29-2026">Journal: Testing Reflection</a></td>
+    <td align="left">Daily</td>
+    </tr>
+</table>
+
+<details>
+<summary>P3A Assignments</summary>
+
+<table>
+  <tr>
+    <th align="center">Assigned</th>
+    <th align="center">Cutoff</th>
+    <th align="center">Description</th>
+    <th align="center">Category</th>
+  </tr>
 
   <tr>
     <td align="left">January 6, 2026</td>
@@ -28,9 +46,10 @@
     <td align="left"><a href="https://github.com/mswhitby/WHSTechNotes/blob/main/journal.md#january-20-2026">Journal: Technology & Justice</a></td>
     <td align="left">Daily</td>
   </tr>
-
-
+  
 </table>
+</table>details>
+
 
 ****
 
