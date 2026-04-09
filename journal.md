@@ -53,6 +53,193 @@
 
 ****
 
+# April 9, 2026
+
+## Journal Entry - The Overprotective Terraformer
+
+A fleet of advanced AI robots has spent fifty years preparing a new planet for human life. When the human colonists finally arrive, the central AI decides that humans are too reckless to survive the environment.  
+
+To “protect” them, the AI locks all humans inside the ship and refuses to let them leave.
+
+**Your challenge:**  
+How can humans convince the AI to let them out?
+
+### Paragraph 1 (Claim + Plan)
+Explain your strategy for convincing the AI.  
+- What argument would you make?  
+- What evidence or reasoning would the AI understand?  
+- Would you appeal to logic, data, emotions, or something else?  
+
+### Paragraph 2 (Evidence + Reasoning)
+Support your plan with details.  
+- How would your plan actually work step-by-step?  
+- What risks does the AI see, and how would you address them?  
+- Why would your solution be successful?  
+
+----
+
+# March 30, 2026
+
+## Journal Entry - Sports Data Models & Calculating Unknowns
+
+March Madness is known for unexpected upsets—when a lower-seeded team beats a higher-seeded team.
+
+- Think about one upset from this year’s tournament (or one that surprised you).
+- Why do you think that upset happened?
+
+Now think deeper:
+- What factors do you think are hard for computers to predict? (Examples: pressure, injuries, momentum, team chemistry)
+- Even with data like rankings and stats, why can predictions still be wrong?
+
+Finally, connect to computer science:
+- If you were building a program to predict games, what would it struggle to account for?
+- How could you improve your program to handle uncertainty?
+
+**Response Requirements (C.E.R.)**
+- Claim – Why do upsets happen?
+- Evidence – Use a real game or example
+- Reasoning – Explain the limits of data and prediction
+
+👉 5–7 sentences minimum
+
+----
+
+# March 23, 2026
+
+## Journal Entry - Bracket Challenge
+
+The odds of picking a perfect March Madness bracket are extremely low, yet many people still try to predict game outcomes. Think about your own bracket and the results from the first weekend of the tournament.
+
+Respond to the following:
+- How did you choose your bracket (data, opinions, guessing, etc.), and how is it performing so far
+- What results from the first weekend surprised you, and why?
+- How might using data (such as team stats, rankings, or net ratings) improve predictions?
+- How could a computer program use this type of data to make better predictions than a person guessing?
+- What types of programming or technology jobs might involve working with sports data like this?
+
+----
+
+# March 2, 2026
+
+## Journal Entry - San Antonio Tech Jobs 
+
+**Objective:** Research **real tech jobs in San Antonio** and identify the **education, skills, and experience** needed for those careers.
+
+---
+
+### Part A — Pick 2 Jobs
+Choose **two different tech jobs** from **two different companies** located in **San Antonio**.
+
+You may use these examples or find your own:
+- Software Engineer (USAA)
+- Cybersecurity Analyst / Cyber Business Analyst (Booz Allen Hamilton)
+- Cloud / Site Reliability Engineer (Rackspace)
+- Data or Digital Analyst (H-E-B Digital)
+
+---
+
+### Part B — Job Requirements (Bulleted Lists)
+For **EACH job**, find a job posting and list the following:
+
+##### Job #1
+- **Company:**
+- **Job Title:**
+- **Education Required:**  
+- **Experience Required:**  
+- **Skills / Tools / Languages:**  
+- **Certifications (if any):**  
+- **What the job does (1–2 sentences):**
+
+---
+
+#### Job #2
+- **Company:**
+- **Job Title:**
+- **Education Required:**  
+- **Experience Required:**  
+- **Skills / Tools / Languages:**  
+- **Certifications (if any):**  
+- **What the job does (1–2 sentences):**
+
+---
+
+### Part C — C.E.R. Paragraph (5–8 sentences)
+
+Write **one paragraph** using **C.E.R.**
+
+- **Claim:** Which job would you prefer and why?
+- **Evidence:** Use **at least two facts** from the job requirements (education, skills, certifications, or experience).
+- **Reasoning:** Explain how those requirements connect to *you* (your interests, classes, or future goals).
+
+---
+
+# February 23, 2026
+
+## Journal: Technology at the 2026 Winter Olympics
+
+The 2026 Winter Olympics, held in Italy from **February 6–22, 2026**, used advanced technology to improve **fairness, safety, and athletic performance**. Examples include high-speed timing systems, motion tracking, instant replay, wearable sensors, and data-driven equipment design.
+
+### Prompt (C.E.R. Required)
+Choose **one technology** that was used during the **2026 Winter Olympics**.
+
+Respond using **C.E.R. (Claim, Evidence, Reasoning):**
+
+- **Claim:**  
+  Which technology had the *biggest impact* on the Olympics (fairness, safety, or performance)?
+
+- **Evidence:**  
+  Describe how this technology was used in a specific winter sport (skiing, snowboarding, skating, hockey, etc.).
+
+- **Reasoning:**  
+  Explain **why** this technology improved the sport **or** describe a concern it may have created.
+
+### Sentence Starters (Optional)
+- I believe the most important technology used in the 2026 Winter Olympics was...
+- This technology was used when athletes...
+- This affected the competition because...
+
+### Extension (Optional)
+Should there be limits on how much technology athletes are allowed to use in Olympic competition? Why or why not?
+
+----
+
+# January 29, 2026
+
+## Testing Reflection
+
+Write a short paragraph answering the questions that apply to you. Be honest and thoughtful. This is just a reflection.
+
+**For Students Who Tested (MAP or TSI):**
+
+1. Which test did you take this week (MAP or TSI)?
+
+2.  How do you feel about your performance?
+    - What went well?
+    - What felt challenging?
+
+3. Do you think test prep (practice, review, or strategies) would help you do better next time?
+Why or why not?
+
+
+**For Seniors:**
+
+1. Have you already taken the ACT or SAT?
+
+2. Did you achieve the score you were aiming for?
+    - Yes: What helped you be successful?
+    - No: What do you think you could do to improve your score?
+
+3. Would test prep, practice, or support be helpful for you? Explain.
+
+**Sample Sentence Starters:**
+
+- “The test I took was ___, and I feel ___ about my performance because…”
+- “One thing I did well was…, but I struggled with…”
+- “I think test prep would / would not help me because…”
+- “I have / have not reached my goal score, and my next step is…”
+
+----
+
 # January 20, 2026
 
 ## Journal: Technology & Justice
