@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td align="left">March 30, 2026</td>
-    <td align="left">April 7, 2026</td>
+    <td align="left">April 8, 2026</td>
     <td align="left"><a href="https://github.com/mswhitby/WHSTechNotes/blob/main/journal.md#march-30-2026">Journal: Sports Data Models & Calculating Unknowns</a></td>
     <td align="left">Daily</td>
   </tr>
