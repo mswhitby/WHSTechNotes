@@ -32,11 +32,37 @@
     <td align="left">Daily</td>
   </tr>
 
+  <tr>
+    <td align="left">April 20, 2026</td>
+    <td align="left">April 28, 2026</td>
+    <td align="left"><a href="https://github.com/mswhitby/WHSTechNotes/blob/main/journal.md#april-20-2026">Journal: AI, Music, and Influence</a></td>
+    <td align="left">Daily</td>
+  </tr>
+
 </table>
 
 
 
 ****
+
+# April 20, 2026
+
+## Journal: AI, Music, and Influence
+
+Artificial Intelligence (AI) is now being used to create music, videos, and social media content. Some AI-generated songs are becoming popular, while AI is also being used to create memes and videos that influence how people think about real-world events.
+
+In your opinion, how does AI change the way people experience and trust content like music and media? Write 5 to 7 sentences considering the following:
+
+- Does it matter if music or content is made by a human or AI?
+- Can AI content influence people the same way human-created content can?
+- Should there be limits on how AI is used in music or media?
+
+Write your response using C.E.R. (Claim, Evidence, Reasoning):
+- **Claim:** State your opinion clearly.
+- **Evidence:** Use examples from AI music, social media, or current events.
+- **Reasoning:** Explain why your evidence supports your claim.
+
+----
 
 # April 13, 2026
 
